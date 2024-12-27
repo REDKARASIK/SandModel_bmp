@@ -1,0 +1,5 @@
+add_subdirectory(lib_errors)
+add_subdirectory(lib_parsing)
+add_subdirectory(lib_help_functions)
+add_subdirectory(lib_sandmodel)
+add_subdirectory(lib_bmp)
